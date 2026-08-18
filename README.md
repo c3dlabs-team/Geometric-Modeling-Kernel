@@ -1,4 +1,4 @@
-## Hi there 👋
+## Geometric Modeling Kernel Concepts for CAD Developers
 
 <!--
 **c3dlabs-team/c3dlabs-team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
