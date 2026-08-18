@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Geometric Modeling Kernel: Core Concepts for CAD Developers"
+description: "Learn the core concepts of a geometric modeling kernel, including B-Rep, solid and surface modeling, topology, geometry, and their role in CAD development."
+permalink: /geometric-modeling-kernel-concepts-for-cad-developers/
+---
+
 # Geometric Modeling Kernel Concepts for CAD Developers
 
 Developing CAD software requires a different understanding of 3D geometry than simply displaying a model on screen. A rendering engine can draw triangles, lines and shaded surfaces, but engineering applications must also create precise geometry, preserve topological relationships, modify existing bodies and reconstruct models after design changes. These tasks belong to the geometric modeling layer of the system.
