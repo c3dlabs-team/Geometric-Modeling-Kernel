@@ -18,12 +18,12 @@ If a face is split by a new intersection, its underlying surface may remain unch
 
 Boundary representation, or B-Rep, is widely used in solid modeling because it combines mathematical geometry with explicit connectivity.
 A B-Rep body typically contains entities such as:
-●	vertices
-●	edges
-●	loops
-●	faces
-●	shells
-●	bodies
+- vertices
+- edges
+- loops
+- faces
+- shells
+- bodies
 
 A face is associated with an underlying surface and bounded by one or more loops. Edges connect vertices and usually correspond to curves. The topological structure records how these elements are connected.
 
