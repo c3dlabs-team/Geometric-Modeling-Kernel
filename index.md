@@ -11,6 +11,8 @@ A **geometric kernel** is the core software component responsible for representi
 
 Geometric kernels provide the mathematical entities, topological structures and modeling algorithms required to construct engineering models. They work with curves, surfaces, solid bodies and their relationships while supporting operations such as extrusion, Boolean operations, filleting, chamfering, sweeping, lofting and geometric intersections.
 
+![Geometric kernel architecture for CAD applications](/41cbdac33f48.png)
+
 This resource explains how geometric modeling kernels work, how geometry differs from topology, why boundary representation is important, what components make up a CAD kernel and what developers need to understand when integrating geometric modeling functionality into engineering software.
 
 ---
