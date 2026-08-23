@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: "Geometric Kernel: Guide to CAD & Geometric Modeling Kernels"
@@ -454,4 +453,4 @@ The goal is to provide practical explanations of the concepts, data structures a
 ### Topics
 
 Geometric kernel · Geometric modeling kernel · CAD kernel · Geometry kernel · Solid modeling · B-Rep · CAD development · 3D geometry
-```
+
